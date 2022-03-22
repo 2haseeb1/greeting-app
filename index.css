@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.headingFormat{
+    color:#fa9191;
+    text-align: center;
+    margin-top: 20px;
+}
+.imgH{height:200px;
+      width:250px;
+
+
+
+}
+
+#center{
+    display:flex;
+    justify-content:center;
+}
+
+body{
+    font-family: 'Smooch Sans', sans-serif;
+}
